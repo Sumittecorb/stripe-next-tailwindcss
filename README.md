@@ -1,5 +1,5 @@
 <a href="https://github.com/Sumittecorb/stripe-next-tailwindcss/">
-  <img alt="Stripe Demo" src="https://github.com/Sumittecorb/ai-chat-bot/blob/main/public/ai-chat-bot.png">
+  <!-- <img alt="Stripe Demo" src="https://github.com/Sumittecorb/ai-chat-bot/blob/main/public/ai-chat-bot.png"> -->
   <h1 align="center">Stripe Demo</h1>
 </a>
 
@@ -29,7 +29,7 @@ In this there are three example in stripe payments
  ## Tech Stack + Features
 
 
-https://github.com/Sumittecorb/ai-chat-bot/assets/105202084/70cbfedc-f1d7-4548-880f-757f4a44df4d
+<!-- https://github.com/Sumittecorb/ai-chat-bot/assets/105202084/70cbfedc-f1d7-4548-880f-757f4a44df4d -->
 
 
 
